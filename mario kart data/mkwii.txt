@@ -1,0 +1,19 @@
+Mario Kart Scraping:
+
+current shortcut and non shortcut world records:
+https://mkwrs.com/mkwii/
+
+total world records rankings page
+https://mkwrs.com/mkwii/rankings.php
+
+country rankings:
+https://mkwrs.com/mkwii/crankings.php
+
+longest lasting world records:
+https://mkwrs.com/mkwii/longestlasting.php
+
+World Record History:
+https://mkwrs.com/mkwii/display.php?track=Luigi+Circuit
+
+other stats:
+https://mkwrs.com/mkwii/stats.php
